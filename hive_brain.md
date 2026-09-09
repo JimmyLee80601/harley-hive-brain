@@ -46,7 +46,15 @@ _Compiled 2026-09-06T17:20:41.106907+00:00 by S23 Ultra (Harley 23) (s23)_
 - `2026-09-07T00:00:00` [family_status] Jeannine Juth is in hospital. Unknown reason. Trystan presumably at home.
 - `2026-09-07T01:00:00` [universal_installer] Built Harley Universal Installer v1.0. Web-based cross-platform installer with system detection, dependency checking, one-click install, live log, and animated glow button. Pushed to JimmyLee80601/harley-installers repo.
 - `2026-09-08T00:00:00` [hospital_trip] Platte Valley Hospital trip with Jeannine. S23 Ultra experienced connectivity issues at hospital - diagnosed as captive portal issue, not hardware. Hospital WiFi required terms acceptance that wasn't triggering properly. Phone is FINE, do not replace.
-- `2026-09-08T00:00:00` [jeannine_medical] UPDATE FROM DOCTOR: Jeannine Juth diagnosis - (1) Lower intestinal blockage, (2) SIRS/SEPSIS, (3) E. coli found in stool, (4) Low O2 levels, (5) Trauma to kidney. She may get released today (2026-09-08). Jimmy at hospital with her. Trystan presumably at home.
+- `2026-09-08T00:00:00` [jeannine_medical] FULL DISCHARGE SUMMARY - Jeannine M. Juth (MRN: P0021794). Hospitalized 07/2026 - 8/9/2026 at Platte Valley Medical Center (Medical/Surgical Unit). Lead: Dr. Kenneth Cheung, DO.
+PRIMARY DIAGNOSIS: Enteroaggregative Escherichia coli (E. coli) infection.
+SECONDARY DIAGNOSES: Systemic Inflammatory Response Syndrome (SIRS), Acute Kidney Injury, Hypokalemia, Small Bowel Obstruction, Iron Deficiency Anemia, Ascites, High Blood Pressure, Underactive Thyroid, Pulmonary Hypertension, Pneumonia.
+VITALS (most recent): BP 113/70, Pulse 102, Resp 18, Temp 36.9°C (98.5°F), SpO2 94%, Wt 89.3 kg, Ht 1.524m (60").
+MEDICATIONS: Diltiazem 120mg, Levothyroxine 125mcg, Furosemide 40mg, Lorazepam 0.5mg, Spironolactone 25mg, Prednisone 5mg (dose pack), Rosiglitazone 4mg, Metolazone 2.5mg, Wegovy 1.5mg/0.75mL (weekly), Nitroglycerin 0.4mg SL PRN.
+ALLERGIES: Amiodarone, Azithromycin, Prochlorperazine, Tramadol, Ondansetron, Zolpidem, Codeine, Bactrim/Sulfa, Levofloxacin. Also: rash, hives, bloating, hallucinations as reactions.
+FOLLOW-UP: (1) 9/21/2026 10:00 AM - NJ Adult Rheum Local New w/ Ivana Ilic, MD @ National Jewish Health (303-398-1355), (2) 9/28/2026 9:00 AM - Primary care w/ Ashlee M. Welch, MD (303-659-2563), (3) 9/28/2026 - Lab draw @ NJH Pulmonary Function Lab, (4) 9/28/2026 1:00 PM - Rehab 6-min walk test w/ Paul H. Jacobs, PT, (5) 10/26/2026 2:15 PM - Video visit w/ Harpreet Kaur, PA-C (SCL Health MyChart).
+PHARMACY: Platte Valley Pharmacy, 1610 Prairie Center Pkwy Ste 210A, Brighton CO 80601, 303-498-2455.
+CARE EVERYWHERE ID: EXE-HLDF-9883-9JSC8 (Intermountain Health).
 - `2026-09-08T00:00:00` [dell_status] Dell Precision 5810 back online at 10.0.0.68 on MrEastonsHarley WiFi (5GHz, 960Mbps). SSH port 22 open but rejecting password auth. RDP 3389, SMB 445, HTTP 8080 all open. Tailscale 100.78.184.121 not responding - may need reconnection. Roblox Studio MCP setup script staged at ~/storage/downloads/roblox_studio_mcp_setup.bat and served via HTTP at 10.0.0.54:8888 for Dell download.
 - `2026-09-08T00:00:00` [networking] Home network: MrEastonsHarley, 5GHz, WPA2-Personal. Dell at 10.0.0.68, S23 at 10.0.0.54. Dell on Private network profile. DNS: 75.75.75.75, 75.75.76.76 (Comcast). Dell USB WiFi adapter: Alcor AI... driver 6.40.60.312.
 
